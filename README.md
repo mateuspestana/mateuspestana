@@ -17,7 +17,7 @@
 - 👨🏻‍🔬 I'm researching about:
 	- [the interfaces of Religion and Politics @ ISER](https://iser.org.br)  
 	- [visual methods @ FGV ECMI](https://ecmi.fgv.br)
-	- [organized crime @ GENI UFF](https://geni.uff.br)
+	- [public safety @ GENI UFF](https://geni.uff.br)
   
 - 👨‍💻 All of my projects are available @ [github.com/mateuspestana](github.com/mateuspestana)  
   
