@@ -1,103 +1,95 @@
-<h1 align="center">Hi 👋, I'm Matheus C. Pestana</h1>  
-<h3 align="center">Data Scientist | Political Scientist | Professor @ FGV</h3>  
+# Matheus C. Pestana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuspestana&label=Profile%20views&color=0e75b6&style=flat" alt="mateuspestana" /> </p>  
+**Cientista político · Cientista de dados · Professor · Desenvolvedor**
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+Sou doutor em Ciência Política pelo IESP-UERJ e pesquisador de pós-doutorado no Programa de Pós-Graduação em Sociologia da UFF (PPGS/UFF). Trabalho na interseção entre pesquisa social, estatística, inteligência artificial e desenvolvimento de software: da pergunta de pesquisa à coleta de dados, do modelo ao produto publicado.
 
-<p align="left"> <a href="https://twitter.com/mateus_cpestana" target="blank"><img src="https://img.shields.io/twitter/follow/mateus_cpestana?logo=twitter&style=for-the-badge" alt="mateus_cpestana" /></a> </p>  
+[![MACAPE](https://img.shields.io/badge/MACAPE-Pesquisa%2C%20dados%20e%20tecnologia-163A32?style=for-the-badge)](https://macape.vercel.app/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://matheuscpestana.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matheus-pestana/)
+[![Site pessoal](https://img.shields.io/badge/Site%20pessoal-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mateuspestana.github.io/)
 
----
+## Onde atuo
 
-### 👨‍🎓 About me
+- **Pesquisador de pós-doutorado** no **PPGS/UFF**.
+- **Professor de Ciência de Dados e Inteligência Artificial** na **FGV Comunicação** e na **FGV Direito Rio**, com atuação na graduação e na pós-graduação.
+- **Coordenador de dados** no **GENI/UFF** — Grupo de Estudos dos Novos Ilegalismos.
+- **Cientista de dados e pesquisador** no **ISER** — Instituto de Estudos da Religião.
+- **Fundador e sócio da [MACAPE Pesquisas e Consultoria em Tecnologia](https://macape.vercel.app/)**.
 
-- 🎓 **PhD in Political Science** (IESP-UERJ)  
-- 🧠 Research focus: **political behavior, authoritarian regimes, religion & politics, public safety, and AI for social sciences**  
-- 🔭 Thesis on **party opposition under Russian autocracy**  
-- 👨🏻‍🏫 Professor of **Data Science and AI** at **FGV Comunicação** and **FGV Direito Rio**  
-- 👨🏻‍🔬 Data Scientist and Researcher at:
-  - **ISER** (Religion & Politics)  
-  - **GENI/UFF** (Public Safety & Violence Data)
-- 🏢 Consultant on MACAPE Pesquisas e Consultoria em Tecnologia 
+Minha formação e pesquisa passam por autoritarismo eleitoral, oposição e estratégia partidária na Rússia, religião e política, comportamento eleitoral e segurança pública. Desenvolvo ferramentas para investigar essas questões e tornar dados públicos mais acessíveis.
 
----
+## MACAPE: pesquisa que vira produto
 
-### 🏛️ Current Positions
+Na minha consultoria, conduzo projetos da definição do problema ao código publicado. Construo sites e aplicativos, APIs, pipelines de dados, painéis e soluções com IA, combinando método de pesquisa com engenharia de software.
 
-- [Professor of Data Science @ FGV ECMI](https://ecmi.fgv.br/integrante/matheus-pestana)  
-- [Data Scientist and Researcher @ ISER](https://www.iser.org.br)  
-- [Data Scientist @ GENI/UFF](https://geni.uff.br)
-- Consultant @ MACAPE
+O trabalho inclui estatística e metodologia, amostragem, modelagem, processamento de linguagem natural, grafos de conhecimento e sistemas de recuperação de informação com LLMs. Também ofereço capacitações para equipes ganharem autonomia com dados.
 
----
+**[Conheça a MACAPE e explore o portfólio completo →](https://macape.vercel.app/#portfolio)**
 
-### 🔬 Research Interests
+## Projetos em destaque
 
-- 📊 Political Data Science & Computational Social Science  
-- 🗳️ Legislative behavior, opposition, and authoritarian politics  
-- ✝️ Religion & Politics  
-- 🚔 Public Safety and Violence Data  
-- 🤖 Artificial Intelligence, Machine Learning & Knowledge Graphs  
-- 🧩 Sociotechnical systems and AI regulation  
+| Projeto | O que faz |
+| --- | --- |
+| **[Onde Dá Pra Conversar](https://ondedapraconversar.com.br/)** | Iniciativa independente que coloca dados eleitorais no mapa para identificar territórios onde o diálogo pode fazer diferença. |
+| **[Resultados MACAPE](https://macape.vercel.app/projetos/resultados-macape)** | Iniciativa independente de acompanhamento e projeção eleitoral a partir dos boletins de urna. |
+| **[Vota Aí! 2026](https://macape.vercel.app/projetos/vota-ai-2026)** | Plataforma para ler, comparar e encontrar afinidades em programas de governo registrados no TSE, para Cesop/Unicamp e Doxa/IESP-UERJ. |
+| **[Atlas das Frentes Parlamentares](https://macape.vercel.app/projetos/atlas-das-frentes)** | Plataforma do ISER / Religião e Poder sobre frentes parlamentares. |
+| **[Mapeando Chacinas Policiais](https://macape.vercel.app/projetos/mapeando-chacinas-policiais)** | Projeto com GENI/UFF, Projeto Mirante e Defensorias Públicas de SP e RJ. |
+| **[A Peneira](https://macape.vercel.app/projetos/a-peneira)** | Plataforma desenvolvida em projeto com estudantes de Comunicação Digital da FGV. |
 
----
+Outros projetos, estudos de caso e plataformas estão no **[portfólio da MACAPE](https://macape.vercel.app/)**, incluindo trabalhos com dados de religião, educação e soluções climáticas.
 
-### 🛠️ What I build
+## Código aberto
 
-- RAG systems with **Knowledge Graphs (Neo4j + LLMs)**  
-- Dashboards and ETL pipelines for **public policy and social research**  
-- Topic models, clustering and narrative monitoring  
-- Educational tools for **AI & Data Science**  
-- Open-source research utilities (scrapers, analyzers, NLP pipelines)
+### [DockDB-CNPJ](https://github.com/mateuspestana/dockdb-cnpj)
 
----
+A base pública de CNPJ da Receita Federal em **DuckDB**, com ferramentas de download, carga e atualização, consultas por linha de comando, API e painel em Streamlit. Um projeto para transformar uma base pública de grande escala em dados consultáveis e reutilizáveis.
 
-### 👨‍💻 Projects
+**Python · DuckDB · SQL · FastAPI · Streamlit · Docker**
 
-- 👨‍💻 All of my projects: [github.com/mateuspestana](https://github.com/mateuspestana)  
-- 📝 Articles: [https://religiaoepoder.org.br](https://religiaoepoder.org.br)
+### [Zeezazum](https://github.com/mateuspestana/zeezazum)
 
----
+Coleta de posts, imagens e vídeos do **Instagram e TikTok** para pesquisa, a partir de tabelas com contas e links. Inclui coleta incremental, retomada de processamento e saídas em JSON e Parquet, com armazenamento local ou S3.
 
-### 📫 Contact
+**Python · Playwright · DuckDB · Parquet · S3**
 
-- 📧 **matheus.pestana@fgv.br**  
-- 📄 CV: [cv_ptbr.pdf](https://github.com/mateuspestana/mateuspestana/blob/main/cv_ptbr.pdf)
+### [Curió](https://github.com/mateuspestana/curio)
 
----
+Aplicativo de terminal para monitorar mudanças em páginas da web, com notificações, histórico de diferenças e abertura dos sites no navegador.
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/mateus_cpestana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateus_cpestana" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/matheus-pestana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-pestana" height="30" width="40" /></a>  
-<a href="https://instagram.com/mateuspestana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateuspestana" height="30" width="40" /></a>  
-</p>  
+**Rust · SQLite · macOS / Linux**
 
----
+**[Mais repositórios →](https://github.com/mateuspestana?tab=repositories)**
 
-<h3 align="left">Languages and Tools:</h3>  
+## Linguagens e ferramentas
 
-**Main stack:**  
-Python, PyTorch, scikit-learn, Pandas, Seaborn, SQL, Neo4j, Docker, Git, Linux  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Data & Infra:**  
-AWS, GCP, Spark, Redis, MongoDB, MySQL, SQLite, Nginx  
+Programo em **Python, Swift, Rust e TypeScript**, desenvolvo interfaces com **React e Next.js** e também uso **R e SQL** em pesquisa e análise de dados.
 
-**Web & Apps:**  
-Flask, Django, Bootstrap, HTML, CSS, Qt  
+- **Dados e aprendizado de máquina:** pandas, Polars, NumPy, scikit-learn, PyTorch e Hugging Face.
+- **IA e linguagem:** NLP, LLMs, RAG, LangChain e grafos de conhecimento com Neo4j.
+- **Aplicações e infraestrutura:** FastAPI, Streamlit, DuckDB, Docker, Git, Linux, AWS e Vercel.
 
-**Other:**  
-OpenCV, Selenium, Figma, Illustrator, Photoshop, Bash  
+## Escrita e ensino
 
----
+Escrevo sobre política e eleições no **[meu Substack](https://matheuscpestana.substack.com/)** e participo de pesquisas e análises publicadas na plataforma **[Religião e Poder](https://religiaoepoder.org.br/)**.
 
-<h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/mateuspestana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mateuspestana" /></a></p><br><br>  
+No ensino, trabalho com ciência de dados, extração e análise de dados, IA e ciência de dados jurídicos. Meus repositórios também reúnem materiais de cursos, oficinas e experimentos em métodos computacionais para as ciências sociais.
 
----
+## Vamos conversar
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuspestana&show_icons=true&locale=en&layout=compact" alt="mateuspestana" /></p>  
+Para pesquisa, consultoria, desenvolvimento de produtos ou capacitação de equipes:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspestana&show_icons=true&locale=en" alt="mateuspestana" /></p>  
+- **MACAPE:** [macape.vercel.app](https://macape.vercel.app/#contato)
+- **E-mail:** [matheus.pestana@iesp.uerj.br](mailto:matheus.pestana@iesp.uerj.br)
+- **E-mail acadêmico FGV:** [matheus.pestana@fgv.br](mailto:matheus.pestana@fgv.br)
+- **LinkedIn:** [matheus-pestana](https://www.linkedin.com/in/matheus-pestana/)
+- **[Currículo](https://github.com/mateuspestana/mateuspestana/blob/main/cv_ptbr.pdf)** · **[Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4869742H6)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuspestana&" alt="mateuspestana" /></p>
